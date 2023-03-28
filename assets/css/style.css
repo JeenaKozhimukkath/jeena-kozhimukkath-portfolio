@@ -1,7 +1,7 @@
 
 body {
     font-family: "Inter", sans-serif;
-    background-color: #242333;
+    background-color: #33658A;
     color:#ffffff;
 }
 header{
@@ -104,8 +104,37 @@ header nav {
     position: relative;
     font-size: 200%;
     
-    bottom: 200px;
-    right: 350px;
+    bottom: 220px;
+    right: 370px;
+    background-color: var(--line_color);
+    color: white;
+    
+}
+#p2 {
+    position: relative;
+    font-size: 100%;
+    bottom: 50%;
+    right: 40%;
+    background-color: var(--line_color);
+    color: white;
+    
+}
+
+#p4 {
+    position: relative;
+    font-size: 100%;
+    bottom: 50%;
+    right: 40%;
+    background-color: var(--line_color);
+    color: white;
+    
+}
+
+#p3 ,#p5 {
+    position: relative;
+    font-size: 100%;
+    bottom: 40%;
+    right: 80%;
     background-color: var(--line_color);
     color: white;
     
